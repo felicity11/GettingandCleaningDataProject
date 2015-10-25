@@ -1,4 +1,4 @@
-datapath<-file.path("./Project", "UCI HAR Dataset")
+### Set working directory to the folder with the UCI HAR Dataset
 
 ##### STEP1 ####################################
 #### Merges the training and the test sets to create one data set
